@@ -48,3 +48,7 @@ body{
          background-color:dimgrey;
          width: 200px;
      }
+     .preguntas{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12px;
+    }
