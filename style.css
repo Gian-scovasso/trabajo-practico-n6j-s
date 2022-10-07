@@ -52,3 +52,13 @@ body{
         font-family: 'Times New Roman', Times, serif;
         font-size: 12px;
     }
+    .titpreg1{
+        font-family:'Liberation serif';
+       font-size: 20px;
+        background-color:dimgrey;
+        width: 700px;
+    }
+    .pregunta1{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12px;
+    }
