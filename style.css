@@ -1,3 +1,9 @@
 body{
     background-color:rgb(207, 228, 247) ;
 }
+.link{
+    left: 1200px;
+    right: 400px;
+    top: 270px;
+    position:absolute;
+}
