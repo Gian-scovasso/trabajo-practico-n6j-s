@@ -19,3 +19,13 @@ body{
     right: 600px;
     bottom: 300px;
 }
+.logoepet{
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    left: 1150px;
+    bottom: 250px;
+    right: 100px;
+    top: 10px;
+    }
+    
