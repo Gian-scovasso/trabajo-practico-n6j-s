@@ -12,3 +12,10 @@ body{
     font-family:'Liberation serif';
    font-size: 20px;
 }
+.imagenclick{
+    height:300px ;
+    width: 350px;
+    position: absolute;
+    right: 600px;
+    bottom: 300px;
+}
