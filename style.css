@@ -122,4 +122,14 @@ body{
         font-family: 'Times New Roman', Times, serif;
         font-size: 12px;
     }
+    .titpreg8{
+        font-family:'Liberation serif';   
+        font-size: 20px;
+        background-color:dimgrey;
+        width: 580px;
+    }
+    .pregunta8{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 12px;
+    }
     
